@@ -26,7 +26,7 @@ which.
 | **[email-to-crm-identity](email-to-crm-identity/)** | An automation sends an email; the CRM needs to show it on the right contact. That is an identity-resolution problem, and a retry must not log the activity twice. | `python3 test_demo.py` | 14 |
 | **[whatsapp-appointment-replies](whatsapp-appointment-replies/)** | Appointment reminders over WhatsApp. A reply brings a phone number, and a phone number is not an identity — households and reception desks cover several appointments. Resolves each reply to one appointment, and refuses replies to a slot that has since moved. | `python3 test_demo.py` | 10 |
 | **[supplier-feed-normaliser](supplier-feed-normaliser/)** | Several dropshipping suppliers, each with its own idea of what "in stock" means and its own staleness. The expensive failure is not an error — it is a number that was true an hour ago. | `python3 test_supplier_sync.py` | 8 |
-| **[bot-handoff-state-machine](bot-handoff-state-machine/)** | "Stop the bot when a human answers" sounds like one flag. It's a state machine: only one human can claim a conversation, the bot never answers once a human owns it, and an idle human with an unanswered message re-escalates instead of going silent. | `python3 test_demo.py` | 18 |
+| **[bot-handoff-state-machine](bot-handoff-state-machine/)** | "Stop the bot when a human answers" sounds like one flag. It's a state machine: only one human can claim a conversation, the bot never answers once a human owns it, and an idle human with an unanswered message re-escalates instead of going silent. Has a `chat.py` you can type into yourself. | `python3 test_demo.py` | 18 |
 
 **78 tests.** Standard library only. No dependencies.
 
