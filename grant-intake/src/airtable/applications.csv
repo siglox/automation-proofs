@@ -1,0 +1,2 @@
+application_id,status,category,cycle,applicant_name,email,organisation,institution,supervisor_email,amount_requested,project_summary,research_abstract,need_description,missing_fields,duplicate_of,submitted_at,review_status,internal_notes,final_disposition,decision_history
+COM-2026-Q4-0001,ACCEPTED,community,2026-Q4,Ana Ruiz,ana@example.org,Barrio Norte Collective,,,5000,Community garden on the disused lot,,,,,2026-10-02T09:14:00Z,Not started,,Pending,Category recognised as 'community'. Assigned application id COM-2026-Q4-0001. All required fields present.

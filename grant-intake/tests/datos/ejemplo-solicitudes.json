@@ -1,0 +1,80 @@
+[
+  {
+    "category": "community",
+    "applicant_name": "Ana Ruiz",
+    "email": "ana@example.org",
+    "organisation": "Barrio Norte Collective",
+    "amount_requested": 5000,
+    "project_summary": "Community garden on the disused lot at Calle Mayor.",
+    "cycle": "2026-Q4"
+  },
+  {
+    "category": "community",
+    "applicant_name": "Ana Ruiz",
+    "email": "ANA@example.org  ",
+    "organisation": "Barrio Norte Collective",
+    "amount_requested": 5000,
+    "project_summary": "Resubmitting, I think the first one failed.",
+    "cycle": "2026-Q4"
+  },
+  {
+    "category": "research",
+    "applicant_name": "Tomas Ferrer",
+    "email": "t.ferrer@example.edu",
+    "institution": "Universidad del Norte",
+    "amount_requested": 18000,
+    "research_abstract": "Soil recovery in post-industrial sites.",
+    "supervisor_email": "supervisor@example.edu",
+    "cycle": "2026-Q4"
+  },
+  {
+    "category": "research",
+    "applicant_name": "Lucia Marin",
+    "email": "l.marin@example.edu",
+    "institution": "Instituto Sur",
+    "amount_requested": 12000,
+    "research_abstract": "Water table monitoring.",
+    "cycle": "2026-Q4"
+  },
+  {
+    "category": "emergency",
+    "applicant_name": "Pedro Sanz",
+    "email": "pedro@example.net",
+    "amount_requested": 800,
+    "need_description": "Roof collapsed after the storm.",
+    "cycle": "2026-Q4"
+  },
+  {
+    "category": "emergency",
+    "applicant_name": "Marta Gil",
+    "email": "marta at example dot net",
+    "amount_requested": 1200,
+    "need_description": "Flooding damage.",
+    "cycle": "2026-Q4"
+  },
+  {
+    "category": "innovation",
+    "applicant_name": "Hugo Paz",
+    "email": "hugo@example.org",
+    "amount_requested": 9000,
+    "cycle": "2026-Q4"
+  },
+  {
+    "category": "community",
+    "applicant_name": "Elena Boix",
+    "email": "elena@example.org",
+    "organisation": "Fundacion Litoral",
+    "amount_requested": 120000,
+    "project_summary": "Coastal restoration across four municipalities.",
+    "cycle": "2026-Q4"
+  },
+  {
+    "category": "community",
+    "applicant_name": "Ana Ruiz",
+    "email": "ana@example.org",
+    "organisation": "Barrio Norte Collective",
+    "amount_requested": 4000,
+    "project_summary": "Different project, new cycle.",
+    "cycle": "2027-Q1"
+  }
+]

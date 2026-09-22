@@ -1,0 +1,32 @@
+[
+  {
+    "id": "101",
+    "name": "Dana Whitfield",
+    "email": "dana.whitfield@northgate-supply.com",
+    "secondary_emails": ["d.whitfield@northgate-supply.com"]
+  },
+  {
+    "id": "102",
+    "name": "Marcus Obi",
+    "email": "marcus@obi-fabrication.com",
+    "secondary_emails": []
+  },
+  {
+    "id": "103",
+    "name": "Marcus Obi (imported 2025)",
+    "email": "Marcus@Obi-Fabrication.com",
+    "secondary_emails": []
+  },
+  {
+    "id": "104",
+    "name": "Priya Raman",
+    "email": "priya.raman@lattice-works.io",
+    "secondary_emails": ["priya+billing@lattice-works.io"]
+  },
+  {
+    "id": "105",
+    "name": "Tom Bergstrom",
+    "email": "tom@bergstrom-hvac.net",
+    "secondary_emails": []
+  }
+]

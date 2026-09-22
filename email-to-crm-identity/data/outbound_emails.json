@@ -1,0 +1,38 @@
+[
+  {
+    "message_id": "msg-0001",
+    "to": "dana.whitfield@northgate-supply.com",
+    "subject": "Your quote is ready",
+    "sent_at": "2026-09-22T08:04:11Z"
+  },
+  {
+    "message_id": "msg-0002",
+    "to": "D.Whitfield@Northgate-Supply.com ",
+    "subject": "Following up on the quote",
+    "sent_at": "2026-09-22T08:09:40Z"
+  },
+  {
+    "message_id": "msg-0003",
+    "to": "marcus@obi-fabrication.com",
+    "subject": "Site visit confirmation",
+    "sent_at": "2026-09-22T08:12:02Z"
+  },
+  {
+    "message_id": "msg-0001",
+    "to": "dana.whitfield@northgate-supply.com",
+    "subject": "Your quote is ready",
+    "sent_at": "2026-09-22T08:31:55Z"
+  },
+  {
+    "message_id": "msg-0004",
+    "to": "priya+billing@lattice-works.io",
+    "subject": "Invoice 4471",
+    "sent_at": "2026-09-22T08:44:17Z"
+  },
+  {
+    "message_id": "msg-0005",
+    "to": "accounts@grieve-and-sons.co.uk",
+    "subject": "Renewal reminder",
+    "sent_at": "2026-09-22T09:02:30Z"
+  }
+]

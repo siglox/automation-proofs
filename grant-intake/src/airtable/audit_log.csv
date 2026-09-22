@@ -1,0 +1,5 @@
+timestamp,application_id,actor,action,detail
+2026-10-02T09:14:03Z,COM-2026-Q4-0001,automation,INTAKE,Category recognised as 'community'
+2026-10-02T09:14:03Z,COM-2026-Q4-0001,automation,ID_ASSIGNED,Assigned application id COM-2026-Q4-0001
+2026-10-02T09:14:03Z,COM-2026-Q4-0001,automation,ACCEPTED,All required fields present. Ready for the committee
+2026-10-03T16:40:11Z,COM-2026-Q4-0001,j.admin@cozanyx.example,REVIEW_STARTED,Assigned to committee panel A

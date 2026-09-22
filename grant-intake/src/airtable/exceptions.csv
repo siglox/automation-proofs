@@ -1,0 +1,2 @@
+application_id,status,category,cycle,applicant_name,email,reason,missing_fields,duplicate_of,submitted_at,resolved_by,resolved_at,resolution_notes
+,INCOMPLETE,research,2026-Q4,Lucia Marin,l.marin@example.edu,Missing required field(s): supervisor_email,supervisor_email,,2026-10-02T10:02:00Z,,,

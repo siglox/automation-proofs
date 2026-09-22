@@ -1,0 +1,51 @@
+[
+  {
+    "_case": "normal confirm, resolves by the id carried in the button payload",
+    "from": "+971500000001",
+    "received_at": "2026-09-23T10:05:00Z",
+    "button_payload": "CONFIRM:APT-1001:1",
+    "button_text": "Confirm"
+  },
+  {
+    "_case": "second patient on the SAME phone number cancels a different slot",
+    "from": "+971500000001",
+    "received_at": "2026-09-23T10:06:00Z",
+    "button_payload": "CANCEL:APT-1002:1",
+    "button_text": "Cancel"
+  },
+  {
+    "_case": "duplicate tap on the same button - must not be applied twice",
+    "from": "+971500000001",
+    "received_at": "2026-09-23T10:07:00Z",
+    "button_payload": "CONFIRM:APT-1001:1",
+    "button_text": "Confirm"
+  },
+  {
+    "_case": "stale reply - the slot was moved after the reminder was sent",
+    "from": "+971500000003",
+    "received_at": "2026-09-24T07:00:00Z",
+    "button_payload": "CONFIRM:APT-1004:1",
+    "button_text": "Confirm"
+  },
+  {
+    "_case": "free text on a shared number - ambiguous, needs a human",
+    "from": "+971500000001",
+    "received_at": "2026-09-23T10:20:00Z",
+    "button_payload": null,
+    "button_text": "yes that works"
+  },
+  {
+    "_case": "unknown number - nothing to resolve to",
+    "from": "+971509999999",
+    "received_at": "2026-09-23T10:30:00Z",
+    "button_payload": null,
+    "button_text": "Confirm"
+  },
+  {
+    "_case": "free text from a number with exactly one open slot - safe to resolve",
+    "from": "+971500000002",
+    "received_at": "2026-09-23T11:00:00Z",
+    "button_payload": null,
+    "button_text": "Reschedule please"
+  }
+]

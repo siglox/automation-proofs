@@ -1,0 +1,34 @@
+[
+  {
+    "appointment_id": "APT-1001",
+    "patient_name": "Layla Haddad",
+    "phone": "+971500000001",
+    "starts_at": "2026-09-24T09:00:00Z",
+    "status": "SCHEDULED",
+    "version": 1
+  },
+  {
+    "appointment_id": "APT-1002",
+    "patient_name": "Omar Haddad",
+    "phone": "+971500000001",
+    "starts_at": "2026-09-24T11:30:00Z",
+    "status": "SCHEDULED",
+    "version": 1
+  },
+  {
+    "appointment_id": "APT-1003",
+    "patient_name": "Sara Nasser",
+    "phone": "+971500000002",
+    "starts_at": "2026-09-24T14:00:00Z",
+    "status": "SCHEDULED",
+    "version": 1
+  },
+  {
+    "appointment_id": "APT-1004",
+    "patient_name": "Yusuf Rahman",
+    "phone": "+971500000003",
+    "starts_at": "2026-09-25T08:15:00Z",
+    "status": "CANCELLED",
+    "version": 2
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "_comment": "Everything you can change without touching code. Edit this file, then re-run. See docs/README.md, step 8.",
+
+  "cycle": {
+    "current": "2026-Q4",
+    "_comment": "The cycle an application belongs to when it does not carry one."
+  },
+
+  "categories": {
+    "community": {
+      "label": "Community Grant",
+      "code": "COM",
+      "required_fields": ["applicant_name", "email", "organisation", "amount_requested", "project_summary"]
+    },
+    "research": {
+      "label": "Research Grant",
+      "code": "RES",
+      "required_fields": ["applicant_name", "email", "institution", "amount_requested", "research_abstract", "supervisor_email"]
+    },
+    "emergency": {
+      "label": "Emergency Relief",
+      "code": "EMG",
+      "required_fields": ["applicant_name", "email", "amount_requested", "need_description"]
+    }
+  },
+
+  "always_required": ["applicant_name", "email"],
+  "_always_required": "Required in every category, whatever the category lists.",
+
+  "amount_ceiling": 50000,
+  "_amount_ceiling": "Above this, the application is routed for review instead of accepted. 0 disables the check.",
+
+  "duplicate_scope": "cycle",
+  "_duplicate_scope": "'cycle' = same email twice in one cycle is a duplicate. 'ever' = same email ever."
+}
