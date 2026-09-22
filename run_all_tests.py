@@ -21,6 +21,7 @@ PROYECTOS = [
     ("email-to-crm-identity", "test_demo.py"),
     ("whatsapp-appointment-replies", "test_demo.py"),
     ("supplier-feed-normaliser", "test_supplier_sync.py"),
+    ("bot-handoff-state-machine", "test_demo.py"),
 ]
 
 
