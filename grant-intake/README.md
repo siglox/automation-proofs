@@ -11,6 +11,8 @@ state change is written to an audit log.
 
 This is a personal project, not client work.
 
+![Nine applications in, every one accounted for](../docs/intake.gif)
+
 ## Try it in one minute
 
 ```bash

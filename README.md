@@ -1,5 +1,7 @@
 # Automation & integration — working proofs
 
+![All five projects passing their tests](docs/tests.gif)
+
 Five small systems that connect business tools to each other. Each one runs on
 your machine in under a minute, on synthetic data, with no accounts, API keys or
 installs beyond Python 3.
